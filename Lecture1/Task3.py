@@ -1,9 +1,9 @@
 #Area = l*w
 #Perimeter = 2(l+w)
 
-L=input("Enter Length of Rectangle = ")
-Length= int(L)
-W=input ("Enter value of Width of Rectangle =")
+L=input("Enter Length of Rectangle= ")
+Length=int(L)
+W=input("Enter value of Width of Rectangle= ")
 Width= int(W)
 Area=Length*Width
 Perimeter= 2*(Length + Width)
